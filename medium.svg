@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="722.483" height="217" viewBox="0 0 722.483 217">
+  <g id="Group_1" data-name="Group 1" transform="translate(-560 -412)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="108.5" cy="108.5" r="108.5" transform="translate(560 412)" fill="#ffd24a"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="68.5" cy="108.5" rx="68.5" ry="108.5" transform="translate(794 412)" fill="#ffd24a"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="22" cy="108.5" rx="22" ry="108.5" transform="translate(945 412)" fill="#fff"/>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="22" cy="108.5" rx="22" ry="108.5" transform="translate(948 412)" fill="#ffd24a"/>
+    <path id="Icon_awesome-medium-m" data-name="Icon awesome-medium-m" d="M33.4,48.771a10.674,10.674,0,0,0-3.449-8.933L4.447,9.08V4.5H83.716l61.289,134.4L198.888,4.5h75.594V9.08L252.657,30a6.368,6.368,0,0,0-2.431,6.106V189.894A6.368,6.368,0,0,0,252.657,196l21.316,20.92v4.58H166.717v-4.58l22.107-21.429c2.149-2.149,2.149-2.827,2.149-6.106V65.111L129.514,221.1H121.2L49.736,65.111V169.653a14.24,14.24,0,0,0,3.958,11.986l28.722,34.829v4.58H1v-4.523l28.722-34.885A13.775,13.775,0,0,0,33.4,169.653Z" transform="translate(1008.002 407.5)" fill="#ffd24a"/>
+  </g>
+</svg>
