@@ -15,10 +15,10 @@
 <p align="left"> 
    Visitor count:
    
-   <img src="https://profile-counter.glitch.me/Daniyal-Murtaza/count.svg" align="center"/> 
+   <img src="https://profile-counter.glitch.me/Razi-Haider/count.svg" align="center"/> 
  </p></div>
 
-### **I'm a Web and Mobile development enthusiast!**
+### **I'm a Data Science and Machine Learning enthusiast!**
 
 Hi! My name is Razi Haider and I'm a Data Scientist. I have completed BS in Computer Science at **Habib University**.
 
@@ -33,7 +33,6 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 - [Travel Website](https://github.com/Daniyal-Murtaza/Travel-website)
 - [Flying over itt](https://github.com/Daniyal-Murtaza/Flying-Over-itt)
 
-### My Stack
 
 #### Languages:
 
@@ -74,7 +73,7 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
-[linkedin]: https://www.linkedin.com/in/daniyal-murtaza-508a891b5
-[gmail]: mailto:syeddaniyalmurtaza7@gmail.com
-[dribbble]: https://dribbble.com/daniyal_murtaza
-[medium]: https://medium.com/@Daniyal-Murtaza
+[linkedin]: https://www.linkedin.com/in/razi-h/
+[gmail]: mailto:razi92695@gmail.com
+[dribbble]: https://dribbble.com/razi-haider
+[medium]: https://medium.com/@razi-haider
