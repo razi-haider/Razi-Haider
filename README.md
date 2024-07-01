@@ -15,7 +15,7 @@
 <p align="left"> 
    Visitor count:
    
-   <img src="https://profile-counter.glitch.me/Razi-Haider/count.svg" align="center"/> 
+   <img src="https://profile-counter.glitch.me/Daniyal-Murtaza/count.svg" align="center"/> 
  </p></div>
 
 ### **I'm a Data Science and Machine Learning enthusiast!**
