@@ -24,16 +24,6 @@ Hi! My name is Razi Haider and I'm a Data Scientist. I have completed BS in Comp
 
 I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in data sceince. I love movies, games, books, rpgs and everything narrative. 
 
-### **If you want to see some highlights of my production so far, check:**
-
-- [Serve Pakistan Foundation](https://github.com/Daniyal-Murtaza/ServePakistanFoundation)
-- [Asteroids point zero](https://github.com/Daniyal-Murtaza/asteroids-point-zero)
-- [Goruto](https://github.com/Daniyal-Murtaza/Goruto)
-- [Ghost Buster](https://github.com/Daniyal-Murtaza/Ghost-Buster)
-- [Travel Website](https://github.com/Daniyal-Murtaza/Travel-website)
-- [Flying over itt](https://github.com/Daniyal-Murtaza/Flying-Over-itt)
-
-
 #### Languages:
 
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c++&logoColor=white)
