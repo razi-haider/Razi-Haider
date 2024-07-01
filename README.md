@@ -1,12 +1,12 @@
-# Hi, I'm Daniyal Murtaza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Razi Haider <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[<img align="left" alt="daniyal | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="Razi | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 
-[<img align="left" alt="daniyal.murtaza | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="razi | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
-[<img align="left" alt="dani | dribbble" width="22px" src="./dribbble.svg" />][dribbble]
+[<img align="left" alt="razi | dribbble" width="22px" src="./dribbble.svg" />][dribbble]
 
-[<img align="left" alt="daniy | medium" width="70px" src="./medium.svg" />][medium]
+[<img align="left" alt="razi | medium" width="70px" src="./medium.svg" />][medium]
 
 <br>
 <br>
@@ -20,9 +20,9 @@
 
 ### **I'm a Web and Mobile development enthusiast!**
 
-Hi! My name is Daniyal and I'm a CS Rising Senior at **Habib University**.
+Hi! My name is Razi Haider and I'm a Data Scientist. I have completed BS in Computer Science at **Habib University**.
 
-I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in game and Web development. I love movies, games, books, rpgs and everything narrative. I've been studying game development as a hobbie and have worked on Unity. I love being creative and aspiring the interesting dreams.
+I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in data sceince. I love movies, games, books, rpgs and everything narrative. 
 
 ### **If you want to see some highlights of my production so far, check:**
 
