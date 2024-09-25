@@ -18,7 +18,7 @@
    <img src="https://profile-counter.glitch.me/Daniyal-Murtaza/count.svg" align="center"/> 
  </p></div>
 
-### **I'm a Data Science and Machine Learning enthusiast!**
+### **I'm a Full Stack Developer!**
 
 Hi! My name is Razi Haider and I'm a Full Stack Developer. I have completed BS in Computer Science at **Habib University**.
 
